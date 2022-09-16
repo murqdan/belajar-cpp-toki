@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1657372577879" clover="3.2.0">
+  <project timestamp="1657372577879" name="All files">
+    <metrics statements="71" coveredstatements="71" conditionals="23" coveredconditionals="23" methods="12" coveredmethods="12" elements="106" coveredelements="106" complexity="0" loc="71" ncloc="71" packages="1" files="9" classes="9"/>
+    <file name="bigSum.js" path="/home/murqdan/Dataku/interview/src/bigSum.js">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="9" count="1" type="stmt"/>
+    </file>
+    <file name="fizzBuzz.js" path="/home/murqdan/Dataku/interview/src/fizzBuzz.js">
+      <metrics statements="8" coveredstatements="8" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="100" type="cond" truecount="4" falsecount="0"/>
+      <line num="4" count="6" type="stmt"/>
+      <line num="5" count="94" type="cond" truecount="2" falsecount="0"/>
+      <line num="6" count="27" type="stmt"/>
+      <line num="7" count="67" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="14" type="stmt"/>
+      <line num="10" count="53" type="stmt"/>
+    </file>
+    <file name="miniMaxSum.js" path="/home/murqdan/Dataku/interview/src/miniMaxSum.js">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="7" count="5" type="stmt"/>
+      <line num="15" count="1" type="stmt"/>
+    </file>
+    <file name="palindrome.js" path="/home/murqdan/Dataku/interview/src/palindrome.js">
+      <metrics statements="5" coveredstatements="5" conditionals="5" coveredconditionals="5" methods="1" coveredmethods="1"/>
+      <line num="25" count="22" type="cond" truecount="2" falsecount="0"/>
+      <line num="26" count="16" type="cond" truecount="2" falsecount="0"/>
+      <line num="27" count="2" type="stmt"/>
+      <line num="29" count="14" type="stmt"/>
+      <line num="32" count="6" type="stmt"/>
+    </file>
+    <file name="plusMinus.js" path="/home/murqdan/Dataku/interview/src/plusMinus.js">
+      <metrics statements="11" coveredstatements="11" conditionals="4" coveredconditionals="4" methods="1" coveredmethods="1"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="7" count="1" type="stmt"/>
+      <line num="8" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="9" count="3" type="stmt"/>
+      <line num="10" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="13" count="2" type="stmt"/>
+      <line num="17" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+    </file>
+    <file name="reverseNum.js" path="/home/murqdan/Dataku/interview/src/reverseNum.js">
+      <metrics statements="14" coveredstatements="14" conditionals="2" coveredconditionals="2" methods="1" coveredmethods="1"/>
+      <line num="2" count="12" type="stmt"/>
+      <line num="3" count="12" type="stmt"/>
+      <line num="5" count="12" type="stmt"/>
+      <line num="7" count="24" type="stmt"/>
+      <line num="10" count="24" type="stmt"/>
+      <line num="16" count="12" type="stmt"/>
+      <line num="18" count="24" type="stmt"/>
+      <line num="21" count="24" type="stmt"/>
+      <line num="27" count="12" type="stmt"/>
+      <line num="28" count="48" type="stmt"/>
+      <line num="30" count="48" type="cond" truecount="2" falsecount="0"/>
+      <line num="31" count="36" type="stmt"/>
+      <line num="33" count="12" type="stmt"/>
+      <line num="37" count="12" type="stmt"/>
+    </file>
+    <file name="set.js" path="/home/murqdan/Dataku/interview/src/set.js">
+      <metrics statements="13" coveredstatements="13" conditionals="4" coveredconditionals="4" methods="4" coveredmethods="4"/>
+      <line num="2" count="3" type="stmt"/>
+      <line num="3" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="7" count="9" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="10" count="6" type="stmt"/>
+      <line num="11" count="6" type="stmt"/>
+      <line num="12" count="6" type="stmt"/>
+      <line num="16" count="12" type="stmt"/>
+      <line num="17" count="12" type="cond" truecount="2" falsecount="0"/>
+      <line num="18" count="5" type="stmt"/>
+      <line num="21" count="7" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+    </file>
+    <file name="staircase.js" path="/home/murqdan/Dataku/interview/src/staircase.js">
+      <metrics statements="9" coveredstatements="9" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="12" type="stmt"/>
+      <line num="7" count="30" type="stmt"/>
+      <line num="10" count="12" type="stmt"/>
+      <line num="11" count="42" type="stmt"/>
+      <line num="14" count="12" type="stmt"/>
+      <line num="17" count="2" type="stmt"/>
+      <line num="20" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="/home/murqdan/Dataku/interview/src/sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
