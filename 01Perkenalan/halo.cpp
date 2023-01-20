@@ -1,4 +1,4 @@
 #include <cstdio>
 int main() {
-	printf("halo dunia\n");
+	printf("Halo, dunia!\n");
 }
