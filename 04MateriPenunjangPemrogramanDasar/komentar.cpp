@@ -15,5 +15,5 @@ int main() {
 	hasil = a*x*x + b*x  + c;
 
 	// cetak
-	printf("ax^2 + bx + c = %d\n", hasil);
+	printf("ax^2 + bx + c = %d\n", hasil)
 }
