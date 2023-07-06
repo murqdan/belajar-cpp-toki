@@ -1,13 +1,24 @@
 #include <cstdio>
 
-int a[10], b[10];
-
 int main() {
-    for (int i = 0; i < 10; i++) {
-        a[i] = (3*i) % 10;
-    }
-    for (int i = 0; i < 10; i++) {
-        b[i] = 9*a[((i+3) % 10)] + 5%10;
-    }
-    printf("%d\n", b[8]);
+int N;
+scanf("%d", &N);
+int grade[N];
+
+int sum = 0;
+for(int i = 0; i < N; i++) {
+	scanf("%d", &grade[i]);
+	sum+=grade[i];
+}
+
+int avg = 1;
+avg+=sum/N;
+sum=0;
+for(int i=0; i<N; i++) {
+	if(grade[i]>=avg) {
+		sum++;
+	}
+}
+
+printf("%d%d\n", avg, sum);
 }
