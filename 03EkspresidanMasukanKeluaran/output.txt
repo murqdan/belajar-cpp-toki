@@ -1,1 +1,0 @@
-masukkan nilai a: masukkan nilai b: a + b = 3
